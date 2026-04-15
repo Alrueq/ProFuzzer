@@ -25,5 +25,5 @@
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Pro-Fuzzer.git](https://github.com/YOUR_USERNAME/Pro-Fuzzer.git)
+   git clone [https://github.com/Alrueq/Pro-Fuzzer.git](https://github.com/Alrueq/Pro-Fuzzer.git)
    cd Pro-Fuzzer
